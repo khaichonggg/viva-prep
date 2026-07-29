@@ -1,6 +1,6 @@
 # Viva Prep
 
-[![Validate skill](https://github.com/khaichongwork/viva-prep/actions/workflows/validate.yml/badge.svg)](https://github.com/khaichongwork/viva-prep/actions/workflows/validate.yml)
+[![Validate skill](https://github.com/khaichonggg/viva-prep/actions/workflows/validate.yml/badge.svg)](https://github.com/khaichonggg/viva-prep/actions/workflows/validate.yml)
 
 An evidence-based Agent Skill for preparing and conducting a project viva using the student's real code, report, rubric, and runtime behavior.
 
