@@ -39,4 +39,4 @@ python tests/validate_skill.py
 
 ## License
 
-MIT
+Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE), for noncommercial use only.
